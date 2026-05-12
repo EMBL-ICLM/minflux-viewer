@@ -1,0 +1,23 @@
+[
+  {
+    "apply": true,
+    "attribute": "cfr",
+    "value_as": "per loc",
+    "min": 0,
+    "max": 0.7998046875
+  },
+  {
+    "apply": true,
+    "attribute": "efo",
+    "value_as": "per loc",
+    "min": 27732.203389830531,
+    "max": 103039.32203389832
+  },
+  {
+    "apply": true,
+    "attribute": "nLoc",
+    "value_as": "per loc",
+    "min": 5,
+    "max": 369
+  }
+]
