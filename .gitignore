@@ -43,8 +43,3 @@ docs/
 # MATLAB remnants
 *.asv
 *.m~
-
-# Vendor / specpy wheels — proprietary Abberior binaries, never committed.
-# vendor/README.md is tracked (documentation); the .whl files are not.
-vendor/*.whl
-specpy-*/
